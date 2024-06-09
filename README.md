@@ -3,6 +3,11 @@ Descargar GoLiveServer extensión, darle click a la botón GoLive, que abrirá u
 Es una calculadora básica vanilla, con css puro, que incluye suma, resta, multiplicación, división, permite borrar un digito y el todo
 
 ♥♥♥
+vercel despliegue
+
+https://vercel.com/jesirei333s-projects/calculadora-vanilla
+
+♥♥♥
 
 
 https://github.com/JesiRei333/calculadoraVanilla/assets/152235404/523ab055-a333-489b-b73d-b8fcd4090160
